@@ -1,5 +1,8 @@
 opencv-python
+cmake
 dlib
 numpy
 scipy
 mediapipe
+fastapi[standard]
+uvicorn
